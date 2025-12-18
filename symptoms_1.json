@@ -1,0 +1,117 @@
+[{
+  "code": "abdominal pain"
+  }
+, {
+  "code": "articular pain"
+}, {
+  "code": "back pain"
+}, {
+  "code": "bruises"
+}, {
+  "code": "cough"
+}, {
+  "code": "diarrhea"
+}, {
+  "code": "difficulty breathing"
+}, {
+  "code": "fever"
+}, {
+  "code": "headache"
+}, {
+  "code": "hiccups"
+}, {
+  "code": "intense fatigue"
+}, {
+  "code": "jaundice"
+}, {
+  "code": "loss of appetite"
+}, {
+  "code": "muscular pain"
+}, {
+  "code": "neck rigidity"
+}, {
+  "code": "sore throat"
+}, {
+  "code": "thoracic pain"
+}, {
+  "code": "bleeding"
+}, {
+  "code": "rash"
+}, {
+  "code": "red eyes"
+}, {
+    "code": "neck pain"
+}, {
+    "code": "weakness"
+}, {
+    "code": "stiffness"
+}, {
+    "code": "shaking of hands"
+}, {
+    "code": "seizure"
+}, {
+    "code": "paralysis"
+}, {
+    "code": "asthenia"
+}, {
+    "code": "asymptomatic"
+}, {
+    "code": "chill"
+}, {
+    "code": "clouded consciousness"
+}, {
+    "code": "conjunctivitis"
+}, {
+    "code": "dry cough"
+}, {
+    "code": "loss of taste"
+}, {
+    "code": "loss of sense of smell"
+}, {
+    "code": "nausea"
+}, {
+    "code": "vomiting"
+}, {
+    "code": "numbness"
+}, {
+    "code": "loss of feeling"
+}, {
+    "code": "double vision"
+}, {
+    "code": "hearing loss"
+}, {
+    "code": "hallucination"
+}, {
+    "code": "loss of balance"
+}, {
+    "code": "fainting"
+}, {
+    "code": "confusion"
+}, {
+    "code": "memory loss"
+}, {
+    "code": "slurred speech"
+}, {
+    "code": "difficulty swallowing"
+}, {
+    "code": "dizziness"
+}, {
+    "code": "fatigue"
+}, {
+    "code": "chest pain"
+}, {
+    "code": "dyspnea"
+}, {
+    "code": "hemoptysis"
+}, {
+    "code": "joint pain"
+},  {
+    "code": "lymphadenopathy"
+}, {
+    "code": "muscle pain"
+},  {
+    "code": "nasal congestion"
+}, {
+    "code": "wheezing"
+}]
+
