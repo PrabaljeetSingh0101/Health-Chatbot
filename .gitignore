@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+venv/
+
+# Audio outputs
+Output/Audio/*.mp3
+
+# Patient Reports (Keep data private)
+Output/Summary/*.pdf
